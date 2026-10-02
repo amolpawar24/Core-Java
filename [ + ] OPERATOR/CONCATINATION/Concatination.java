@@ -8,11 +8,11 @@ class Concatination
 		boolean check = true;
 		String str = "Hello";
 
-		System.out.println(a+str);
-		System.out.println(ch+str);
-		System.out.println(var+str);
-		System.out.println(check+str);
-		System.out.println(str+str);
+		System.out.println(a + str);
+		System.out.println(ch + str);
+		System.out.println(var + str);
+		System.out.println(check + str);
+		System.out.println(str + str);
 	}
 }
 /*
