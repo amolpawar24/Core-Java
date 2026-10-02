@@ -10,6 +10,5 @@ class ArithematicOperators
 		System.out.println(a*b);//4
 		System.out.println(a/b);//1
 		System.out.println(a%b);//0
-
 	}
 }
