@@ -5,6 +5,6 @@ class BitwiseXOR
 		int a = 5;
 		int b = 3;
 
-		System.out.println(a ^ b);
+		System.out.pr3intln(a ^ b);
 	}
 }
